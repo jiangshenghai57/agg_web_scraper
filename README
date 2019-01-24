@@ -1,0 +1,2 @@
+The scraper is designed to have chromedriver.exe in its path to scrape st. louis fred website daily libor csv file. Then rearrange the csv,
+putting it into a dbf (foxpro) file.
